@@ -4,7 +4,15 @@
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Flutter project serves as a template for building mobile applications. It includes the following features:
+
+- **Login Screen:** Utilizes shared preferences for user authentication. Users can log in to access personalized content.
+
+- **Splash Screen:** Provides a visually appealing introduction to the app, creating a smooth transition into the main content.
+
+- **Message View Screen:** Displays messages or notifications in a user-friendly interface.
+
+- **Like Button:** Incorporates a like button to allow users to express their appreciation for content.
 
 A few resources to get you started if this is your first Flutter project:
 
